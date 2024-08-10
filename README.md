@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lohithkumar0612
+- 👋 Hi, I’m Lohith Kumar
 - 👀 I’m interested in WEB DEVELPOMENT 
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on Web development projects and Data analytics 
